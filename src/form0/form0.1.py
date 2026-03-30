@@ -1,1 +1,1 @@
-Print("Hola 0.3")
+print("Hola desde 0.3")
